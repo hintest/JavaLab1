@@ -6,6 +6,10 @@ import java.io.*;
 /**
  *
  * Klasse som tester funksjonaliteten til programmet.
+ * 
+ * Demostrasjon av GIT
+ * 
+ * 
  *
  */
 

@@ -1,4 +1,4 @@
-package vehicle;
+
 
 public interface Driveable {
 	public void drive();
